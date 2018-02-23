@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "code": "S0M3RAND0MC0D3" },
+    { "code": "S0M3RAND0MC0D3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
